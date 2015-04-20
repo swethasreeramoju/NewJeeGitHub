@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Hello World 123456dfgd456456
+	Hello World 
 	
 </body>
 </html>
